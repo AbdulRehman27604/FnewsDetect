@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+jinja2
+nltk
+kagglehub
+pandas
+scikit-learn
+joblib
+
